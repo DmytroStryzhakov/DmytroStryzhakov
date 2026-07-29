@@ -18,6 +18,6 @@ communications suite (5M+ users), and React SPAs for enterprise clients at Ander
 Most of my work is under NDA, so this profile is quiet by design.
 Happy to walk through architecture decisions and code on a call.
 
-📄 [CV]() · 💼 [LinkedIn](https://www.linkedin.com/in/dmytro-stryzhakov) · ✉️ dima.strizhakov@gmail.com
+📄 [CV](https://github.com/DmytroStryzhakov/DmytroStryzhakov/blob/main/Dmytro_Stryzhakov_Frontend_Engineer_CV.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/dmytro-stryzhakov) · ✉️ dima.strizhakov@gmail.com
 
 *Open to Frontend Engineer roles — remote or on-site in Spain.*
